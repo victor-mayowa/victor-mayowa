@@ -1,4 +1,5 @@
-![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1272556/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png)
+[![MasterHead](https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png)]
+
 <h1 align="center">Hi 👋, I'm Victor Mayowa Olususi</h1>
 <h3 align="center">A junior front-end Developer from Nigeria</h3>
 
