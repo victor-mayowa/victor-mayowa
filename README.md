@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Victor Mayowa Olususi</h1>
 <h3 align="center">A Fullstack Developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Node.js and Next.js**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **Any react project**
+- 👯 I’m looking to collaborate on **MERN stack project**
 
-- 💬 Ask me about **React, javascript**
+- 💬 Ask me about **javascript, React, Node**
 
 - 📫 How to reach me **victormayowaolususi@gmail.com**
 
-- ⚡ Fun fact **I love Football**
+- ⚡ Fun fact **I love Football and good music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
