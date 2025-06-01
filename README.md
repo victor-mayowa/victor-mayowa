@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Victor Mayowa Olususi</h1>
 <h3 align="center">A Fullstack Developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👯 I’m looking to collaborate on **MERN stack project**
 
 - 💬 Ask me about **javascript, React, Node**
